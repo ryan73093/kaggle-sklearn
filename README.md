@@ -1,6 +1,6 @@
 "# kaggle-sklearn" 
 # Predicting Churn for Bank Customers  
-##預測流失顧客  
+## 預測流失顧客  
 https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers  
 
 失效正確率:79.4%  
@@ -16,7 +16,7 @@ https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers
   
   
 # Heart Failure Prediction  
-##心臟衰竭預測  
+## 心臟衰竭預測  
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data  
 
 失效正確率:61.67%  
