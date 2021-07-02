@@ -1,6 +1,6 @@
 "# kaggle-sklearn" 
 ## Predicting Churn for Bank Customers  
-### 銀行流失顧客預測  
+### 銀行顧客流失預測  
 https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers  
 
 失效正確率:79.4%  
