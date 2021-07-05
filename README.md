@@ -27,3 +27,12 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ![image](https://user-images.githubusercontent.com/34003955/124262095-2fcb5780-db64-11eb-8a8a-4562cff39db5.png)
 
+## 演算法簡述  
+
+### Classfier  
+#### SVM
+#### Logistic
+#### SGD Boost
+
+
+### Regression  
