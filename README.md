@@ -18,8 +18,8 @@ https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data  
 
 失效正確率:61.67%  
-正確率:90%
-模型選擇:Bagging-子模型XGBOOST 
+正確率:90%  
+模型選擇:Bagging-子模型XGBOOST  
 模型調整重點:  
 -feature挑選  
 
