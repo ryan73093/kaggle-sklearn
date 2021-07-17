@@ -32,9 +32,9 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ## Classfier 
 Methods:  
-fit: 放入X、y進行模型擬合。 
-predict: 預測並回傳預測類別。 
-score: 預測成功的比例。  
+fit: 放入X、y進行模型擬合。  
+predict: 預測並回傳預測類別。  
+score: 預測成功的比例。   
 predict_proba: 預測每個類別的機率值。  
   
 ### SVM 
