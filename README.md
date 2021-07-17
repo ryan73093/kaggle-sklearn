@@ -39,24 +39,28 @@ predict_proba: 預測每個類別的機率值。
   
 ### SVM 
 說明:  
-    將線性不可分的資料投射到較高維度的空間，產生一個可分開兩群資料的平面，並透過計算兩群資料到該平面的margin找出最佳平面，以分割兩群資料。  
+*  將線性不可分的資料投射到較高維度的空間，產生一個可分開兩群資料的平面，並透過計算兩群資料到該平面的margin找出最佳平面，以分割兩群資料。  
+
 參數說明:  
-    kernel='linear' (線性)  
-      C: 限制模型的複雜度，防止過度擬合。  
-      kernel: 此範例採用線性。  
-    kernel='poly' (非線性)  
-      C: 限制模型的複雜度，防止過度擬合。    
-      kernel: 此範例採用 Polynomial 高次方轉換。    
-      degree: 增加模型複雜度，3 代表轉換到三次空間進行分類。    
-      gamma: 數值越大越能做複雜的分類邊界。  
-    kernel='rbf' (非線性)  
-      C: 限制模型的複雜度，防止過度擬合。  
-      kernel: 此範例採用 Radial Basis Function 高斯轉換。  
-      gamma: 數值越大越能做複雜的分類邊界  
+1. kernel='linear' (線性)  
+    *    C: 限制模型的複雜度，防止過度擬合。  
+    *    kernel: 此範例採用線性。  
+2. kernel='poly' (非線性)  
+    * C: 限制模型的複雜度，防止過度擬合。    
+    * kernel: 此範例採用 Polynomial 高次方轉換。    
+    * degree: 增加模型複雜度，3 代表轉換到三次空間進行分類。    
+    * gamma: 數值越大越能做複雜的分類邊界。  
+3. kernel='rbf' (非線性)  
+    * C: 限制模型的複雜度，防止過度擬合。  
+    * kernel: 此範例採用 Radial Basis Function 高斯轉換。  
+    * gamma: 數值越大越能做複雜的分類邊界  
+    
 注意事項:  
-    可用於小樣本、非線性、高維度、局部最小點、訓練時需特徵縮放。  
-reference:  
-    https://github.com/andy6804tw/2020-12th-ironman/blob/master/13.SVM(%E5%88%86%E9%A1%9E%E5%99%A8)/13.SVM(Classfication-iris).ipynb  
+1.    用於小樣本、非線性、高維度、局部最小點、
+1.    訓練時需特徵縮放。  
+    
+Reference:  
+https://github.com/andy6804tw/2020-12th-ironman/blob/master/13.SVM(%E5%88%86%E9%A1%9E%E5%99%A8)/13.SVM(Classfication-iris).ipynb  
 
 
 ### Logistic  
