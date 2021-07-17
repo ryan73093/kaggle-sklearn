@@ -30,14 +30,21 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 # 演算法簡述  
 
-## Classfier    
+## Classfier 
+Methods:  
+fit: 放入X、y進行模型擬合。 
+predict: 預測並回傳預測類別。 
+score: 預測成功的比例。  
+predict_proba: 預測每個類別的機率值。  
+  
 ### SVM 
 #### 算法說明:
 #### 參數說明:
+
 #### 注意事項:
 小小樣本、非線性、高維度、局部最小點、訓練時需特徵縮放。  
    
-===
+
 ### Logistic  
 ### KNeighborsClassifier   
 ### DecisionTreeClassifier  
