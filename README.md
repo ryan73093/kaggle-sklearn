@@ -31,7 +31,11 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 # 演算法簡述  
 
 ## Classfier    
-### SVM  
+### SVM 
+#### 算法說明:
+#### 參數說明:
+#### 注意事項:
+小樣本、
 ### Logistic  
 ### KNeighborsClassifier   
 ### DecisionTreeClassifier  
@@ -44,3 +48,10 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ### BaggingClassifier  
 
 ## Regression  
+
+
+## reference:
+pyinvest:  
+https://pyecontech.com/  
+10程式中:  
+https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A  
