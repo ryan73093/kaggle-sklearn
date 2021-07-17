@@ -35,8 +35,8 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 #### 算法說明:
 #### 參數說明:
 #### 注意事項:
-小小樣本、非線性、高維度、局部最小點、訓練時需特徵縮放。
-
+小小樣本、非線性、高維度、局部最小點、訓練時需特徵縮放。  
+   
 ===
 ### Logistic  
 ### KNeighborsClassifier   
