@@ -1,4 +1,6 @@
-"# kaggle-sklearn" 
+
+# Kaggle Pratice
+
 ## Predicting Churn for Bank Customers  
 ### 銀行顧客流失預測  
 https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers  
@@ -28,10 +30,17 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ## 演算法簡述  
 
-### Classfier  
-#### SVM
-#### Logistic
-#### SGD Boost
-
+### Classfier    
+#### SVM  
+#### Logistic  
+#### KNeighborsClassifier   
+#### DecisionTreeClassifier  
+#### RandomForestClassifier  
+#### SGDClassifier  
+#### MLPClassifier  
+#### AdaBoostClassifier  
+#### XGBClassifier  
+#### CatBoostClassifier  
+#### BaggingClassifier  
 
 ### Regression  
