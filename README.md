@@ -50,8 +50,6 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 ## Regression  
 
 
-## reference:
-pyinvest:  
-https://pyecontech.com/  
-10程式中:  
-https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A  
+## Reference:
+pyinvest:  https://pyecontech.com/  
+10程式中:  https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A  
