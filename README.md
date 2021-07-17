@@ -28,14 +28,20 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ![image](https://user-images.githubusercontent.com/34003955/124262095-2fcb5780-db64-11eb-8a8a-4562cff39db5.png)
 
-# 演算法簡述  
+  
+  
+# 演算法筆記  
 
 ## Classfier 
-Methods:  
-fit: 放入X、y進行模型擬合。  
-predict: 預測並回傳預測類別。  
-score: 預測成功的比例。   
-predict_proba: 預測每個類別的機率值。  
+### Methods:  
+* fit: 放入X、y進行模型擬合。  
+* predict: 預測並回傳預測類別。  
+* score: 預測成功的比例。   
+* predict_proba: 預測每個類別的機率值。  
+
+
+
+
   
 ### SVM 
 說明:  
@@ -60,10 +66,12 @@ predict_proba: 預測每個類別的機率值。
 1.    訓練時需特徵縮放。  
     
 Reference:  
-https://github.com/andy6804tw/2020-12th-ironman/blob/master/13.SVM(%E5%88%86%E9%A1%9E%E5%99%A8)/13.SVM(Classfication-iris).ipynb  
+*  https://github.com/andy6804tw/2020-12th-ironman/blob/master/13.SVM(%E5%88%86%E9%A1%9E%E5%99%A8)/13.SVM(Classfication-iris).ipynb  
+*  https://pyecontech.com/2020/03/24/svm/
 
 
-### Logistic  
+### Logistic regreesion 
+
 ### KNeighborsClassifier   
 ### DecisionTreeClassifier  
 ### RandomForestClassifier  
@@ -80,3 +88,4 @@ https://github.com/andy6804tw/2020-12th-ironman/blob/master/13.SVM(%E5%88%86%E9%
 ## Reference:
 pyinvest:  https://pyecontech.com/  
 10程式中:  https://www.youtube.com/channel/UCSNPCGvMYEV-yIXAVt3FA5A  
+
