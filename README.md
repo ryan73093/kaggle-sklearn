@@ -1,5 +1,4 @@
 
-
 # Kaggle Pratice
 
 
@@ -79,7 +78,13 @@ Reference:
 ### RandomForestClassifier  
 ### SGDClassifier  
 ### MLPClassifier  
-### AdaBoostClassifier  
+### AdaBoostClassifier    
+說明:  
+*    集結多個弱學習器的算法，首先給定每組data一個權重，訓練第一個f1(x)後進行資料的預測，答對的資料降低權重，答錯的資料提高權重，再依照公式計算出f1(x)的alpha值，然後再依照調整權重後的資料訓練出一個f2(x)，再算出f2(x)的alpha值，以此類推持續下去會產生多個fn(x)與對應的alpha值，最終組合起來得到一個分類器。  
+
+Reference:
+*    https://www.youtube.com/watch?v=tH9FH1DH5n0&t=2142s
+
 ### XGBClassifier  
 ### CatBoostClassifier  
 ### BaggingClassifier  
