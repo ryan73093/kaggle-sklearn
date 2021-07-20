@@ -1,4 +1,4 @@
-
++
 # Kaggle Pratice
 
 
@@ -32,6 +32,7 @@ https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
   
   
 # 演算法筆記  
+![](https://i.imgur.com/zp8uJtX.jpg)
 
 ## Classfier 
 ### Methods:  
